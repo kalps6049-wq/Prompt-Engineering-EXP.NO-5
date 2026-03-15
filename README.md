@@ -93,36 +93,44 @@ Scenario 1: Concept Explanation
 Prompt
 
 "Explain Blockchain Technology."
+```
 
-Prompt Type	Observation
-Straightforward Prompt	Gives simple explanation
-Experiential Prompt	Provides explanation from a specific viewpoint
-Tabular Prompt	Organizes features in table
-Comparative Prompt	Compares blockchain with other technologies
+Prompt Type             	Observation
+Straightforward Prompt	 Gives simple explanation
+Experiential Prompt	      Provides explanation from a specific viewpoint
+Tabular Prompt	          Organizes features in table
+Comparative Prompt	    Compares blockchain with other technologies
+```
 Scenario 2: Technology Comparison
 Prompt
 
 "Compare Cloud Computing and Edge Computing."
+```
 
-Prompt Type	Result
-Straightforward	Basic explanation
-Comparative	Detailed comparison
-Tabular	Structured comparison table
+Prompt Type	          Result
+Straightforward      	Basic explanation
+Comparative	        Detailed comparison
+Tabular         	Structured comparison table
+```
+
 Scenario 3: Problem Solving
-Prompt
+Prompt:
 
 "Explain how AI can be used in healthcare."
-
-Prompt Type	Observation
-Straightforward	General answer
-Experiential	Real-world viewpoint
-Tabular	Organized use cases
+```
+Prompt Type                  	Observation
+Straightforward           	General answer
+Experiential	          Real-world viewpoint
+Tabular             	Organized use cases
+```
 5. Comparative Evaluation of AI Tools
-Criteria	ChatGPT	Perplexity	Copilot
-Accuracy	9/10	8/10	8/10
-Coherence	9/10	8/10	8/10
-Simplicity	9/10	8/10	7/10
-Speed	9/10	9/10	8/10
-User Experience	9/10	8/10	8/10
+ ```
+Criteria	     ChatGPT    	Perplexity	    Copilot
+Accuracy	      9/10	         8/10	          8/10
+Coherence	      9/10	         8/10	          8/10
+Simplicity	    9/10	         8/10	          7/10
+Speed	          9/10	         9/10	          8/10
+User Experience	9/10	         8/10	          8/10
+``
 RESULT:
 The experiment shows that structured prompts produce better outputs compared to vague prompts. Comparative and tabular prompts provide clearer information, while experiential prompts give context-based insights.
