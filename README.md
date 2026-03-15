@@ -131,13 +131,14 @@ Prompt:
 ```
 5. Comparative Evaluation of AI Tools:
 6. ```
-   | Criteria        | ChatGPT | Perplexity | Copilot |
+ | Criteria        | ChatGPT | Perplexity | Copilot |
 | --------------- | ------- | ---------- | ------- |
 | Accuracy        | 9/10    | 8/10       | 8/10    |
 | Coherence       | 9/10    | 8/10       | 8/10    |
 | Simplicity      | 9/10    | 8/10       | 7/10    |
 | Speed           | 9/10    | 9/10       | 8/10    |
 | User Experience | 9/10    | 8/10       | 8/10    |
+
 ```
 
 RESULT:
