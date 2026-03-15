@@ -130,7 +130,7 @@ Prompt:
 | Tabular         | Organized use cases  |
 ```
 5. Comparative Evaluation of AI Tools:
-6. ```
+ ```
  | Criteria        | ChatGPT | Perplexity | Copilot |
 | --------------- | ------- | ---------- | ------- |
 | Accuracy        | 9/10    | 8/10       | 8/10    |
