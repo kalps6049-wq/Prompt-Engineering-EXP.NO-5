@@ -2,6 +2,24 @@ EXP 5: COMPARATIVE ANALYSIS OF DIFFERENT TYPES OF PROMPTING PATTERNS AND EXPLAIN
 
 Aim: To test and compare how different pattern models respond to various prompts (broad or unstructured) versus basic prompts (clearer and more refined) across multiple scenarios. Analyze the quality, accuracy, and depth of the generated responses.
 
+Basic prompting:
+A basic prompt is a clear and structured instruction given to the AI to guide it in producing accurate and relevant results.
+Different prompting patterns help improve:
+Accuracy
+
+
+Clarity:
+
+
+1.Depth of response
+
+
+2.User understanding
+
+
+3.This experiment compares multiple prompting patterns using test scenarios.
+
+
 Types of prompt:
 1. Straightforward Prompt:
 
